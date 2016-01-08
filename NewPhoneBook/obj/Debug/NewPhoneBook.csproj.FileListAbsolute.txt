@@ -1,0 +1,6 @@
+C:\Users\Juan\Documents\class\carbontest\NewPhoneBook\NewPhoneBook\bin\Debug\NewPhoneBook.exe.config
+C:\Users\Juan\Documents\class\carbontest\NewPhoneBook\NewPhoneBook\bin\Debug\NewPhoneBook.exe
+C:\Users\Juan\Documents\class\carbontest\NewPhoneBook\NewPhoneBook\bin\Debug\NewPhoneBook.pdb
+C:\Users\Juan\Documents\class\carbontest\NewPhoneBook\NewPhoneBook\obj\Debug\NewPhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\class\carbontest\NewPhoneBook\NewPhoneBook\obj\Debug\NewPhoneBook.exe
+C:\Users\Juan\Documents\class\carbontest\NewPhoneBook\NewPhoneBook\obj\Debug\NewPhoneBook.pdb
